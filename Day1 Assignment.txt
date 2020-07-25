@@ -11,8 +11,8 @@ added to every participant’s ledger.
 1. Identity Theft
 2. Managing And Protecting Patient Data in Health Care Organizations
 3. Digital Copyright And Piracy
-4.Authenticity
-5.Security
+4. Authenticity
+5. Security
 
 3)what are the few features that block chain will give you?
 1. Cannot be Corrupted
@@ -24,10 +24,10 @@ added to every participant’s ledger.
 
 4)What are all the things that a block contains?
 block contains:
-1.block number
+1. block number
 2. Transaction records
-3.previous block signature
-4.mining key
+3. previous block signature
+4. mining key
 
 5)How is verifiablility of block chain attained?
 Through the redistribution of tamper proof.
